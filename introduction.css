@@ -1,0 +1,35 @@
+.whole-introduction{
+color:rgb(66, 68, 68);
+font-family: 'Prompt', sans-serif;
+display: flex;
+justify-content: center;
+}
+.paragraph-1{
+font-size:25px;
+margin-top:100px;
+text-align:center;
+}
+
+.introduction{
+margin-top:10px;
+display: flex;
+justify-content: center;
+align-items: center;
+width:1500px;
+}
+
+.picture{
+border-radius: 50px;
+width:250px;
+height:250px;
+margin-left: 15px;
+padding-top:30px;
+padding-bottom:30px;
+}
+
+.paragraph-2{
+font-size:17px;
+text-align:justify;
+padding-left:10px;
+padding-right:10px;
+}
