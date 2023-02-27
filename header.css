@@ -138,4 +138,8 @@ cursor: pointer;
 font-size: 20px;
 color:black;
 }
+.home, .dogs-puppies, .cats-kittens, .about-us,
+.adoption-rules, .search, .favorites, .cart{
+margin-left: 30px;
+}
 
